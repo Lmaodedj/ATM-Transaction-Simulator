@@ -1,9 +1,0 @@
-ATM PRO - TRANSACTION LOG
-========================================
-Transaction ID: 1001
-Account Number: 1234567890
-Type: Withdrawal
-Amount: Rs. 200
-Date: 02-11-2026 19:32:22
-Details: Cash withdrawal from account 1234567890
-----------------------------------------

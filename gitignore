@@ -1,0 +1,8 @@
+# Compiled Java files
+*.class
+
+# Generated transaction records
+transactions.txt
+
+# Temporary files
+*.zip
